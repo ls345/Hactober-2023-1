@@ -11,7 +11,7 @@ unsigned long long factorial(int n) {
 
 int main() {
     int num;
-    printf("Enter a non-negative integer: ");
+    printf("Enter a interger 0<: ");
     scanf("%d", &num);
 
     if (num < 0) {
